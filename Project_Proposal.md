@@ -84,14 +84,15 @@ MediaPlayer/
 | 框架版本 | .NET 9.0-windows |
 | 运行时 | .NET Runtime 9.0.315 |
 | 包管理 | NuGet (NAudio 2.2.1, System.Data.SQLite.Core 1.0.119) |
-| 版本控制 | Git (本地仓库) |
+| 版本控制 | Git (GitHub: https://github.com/J-Y-R/windows.git) |
 
 ## 6. 项目仓库地址
 
-> 本地开发仓库：`./MediaPlayer/` （Git本地仓库，共2次提交）
+> 远程仓库：`https://github.com/J-Y-R/windows.git` （master分支）
 
 **提交记录：**
 ```
+002f003 清理无用模板文件，更新项目方案
 ba3fddd 添加.gitignore
 6c3f2c4 初始提交：多媒体播放器项目
 ```
