@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "D9AoUSxjBUk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\X2006\\Desktop\\新建文件夹\\MediaPlayer\\MediaPlayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\X2006\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\X2006\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\X2006\\.nuget\\packages\\naudio\\2.2.1\\naudio.2.2.1.nupkg.sha512",
+    "C:\\Users\\X2006\\.nuget\\packages\\naudio.asio\\2.2.1\\naudio.asio.2.2.1.nupkg.sha512",
+    "C:\\Users\\X2006\\.nuget\\packages\\naudio.core\\2.2.1\\naudio.core.2.2.1.nupkg.sha512",
+    "C:\\Users\\X2006\\.nuget\\packages\\naudio.midi\\2.2.1\\naudio.midi.2.2.1.nupkg.sha512",
+    "C:\\Users\\X2006\\.nuget\\packages\\naudio.wasapi\\2.2.1\\naudio.wasapi.2.2.1.nupkg.sha512",
+    "C:\\Users\\X2006\\.nuget\\packages\\naudio.winforms\\2.2.1\\naudio.winforms.2.2.1.nupkg.sha512",
+    "C:\\Users\\X2006\\.nuget\\packages\\naudio.winmm\\2.2.1\\naudio.winmm.2.2.1.nupkg.sha512",
+    "C:\\Users\\X2006\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\X2006\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512",
+    "C:\\Users\\X2006\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\X2006\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
