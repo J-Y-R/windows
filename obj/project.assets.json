@@ -562,11 +562,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\X2006\\Desktop\\新建文件夹\\MediaPlayer\\MediaPlayer.csproj",
+      "projectUniqueName": "C:\\Users\\X2006\\Desktop\\Windows期末作业\\MediaPlayer\\MediaPlayer.csproj",
       "projectName": "MediaPlayer",
-      "projectPath": "C:\\Users\\X2006\\Desktop\\新建文件夹\\MediaPlayer\\MediaPlayer.csproj",
+      "projectPath": "C:\\Users\\X2006\\Desktop\\Windows期末作业\\MediaPlayer\\MediaPlayer.csproj",
       "packagesPath": "C:\\Users\\X2006\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\X2006\\Desktop\\新建文件夹\\MediaPlayer\\obj\\",
+      "outputPath": "C:\\Users\\X2006\\Desktop\\Windows期末作业\\MediaPlayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\X2006\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D9AoUSxjBUk=",
+  "dgSpecHash": "vS+VvJXhPHM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\X2006\\Desktop\\新建文件夹\\MediaPlayer\\MediaPlayer.csproj",
+  "projectFilePath": "C:\\Users\\X2006\\Desktop\\Windows期末作业\\MediaPlayer\\MediaPlayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\X2006\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\X2006\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
